@@ -6,3 +6,9 @@ Analyze RGB values from input images.
 # how to use
 
 Just visit [https://pokiiio.github.io/rgb-analyzer/](https://pokiiio.github.io/rgb-analyzer/), and select an image you want to analyze. 
+
+# notice
+
+DO NOT SELECT LARGE IMAGES.
+
+Your web browser may freeze or stop.
